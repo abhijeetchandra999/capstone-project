@@ -1,11 +1,5 @@
-# Data Scientist & Machine Learning Enthusiast
+# Data Scientist & Machine Learning 
 
-**About Me:**  
-I'm a passionate Data Scientist with a strong foundation in Data Analysis, Machine Learning, and Generative AI. I thrive on transforming raw, complex data into meaningful insights and intelligent solutions. My projects focus on solving real-world problems and driving impactful outcomes.
-
-I enjoy blending statistics, machine learning, and coding into clean, efficient systems—and I’m always exploring new tools, techniques, and technologies that push the boundaries of what's possible.
-
----
 
 ## Skills & Tools
 
@@ -39,8 +33,7 @@ I enjoy blending statistics, machine learning, and coding into clean, efficient 
 ## Certifications
 
 - NIIT Data Scientist and ML with Generative AI Certificate
-- Virtual Internship Certificate (Forage)
-
+  
 ---
 
 ## Links
@@ -48,10 +41,3 @@ I enjoy blending statistics, machine learning, and coding into clean, efficient 
 - **LinkedIn:** [Abhijeet Chandra](http://www.linkedin.com/in/abhijeetchandra1999)
 - **YouTube Channel:** [SOLclasses](https://www.youtube.com/@SOLclasses)
 
----
-
-## Hobbies
-
-- Video editing
-- Dashboard creation
-- Gym & Fitness
